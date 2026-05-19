@@ -1,5 +1,7 @@
 # OG Snake Game
 
+![Snake Game Screenshot](screenshot.jpg)
+
 Classic Snake Game built with Python's Turtle module — Day 20 of 100 Days of Code.
 
 ## How to Run
