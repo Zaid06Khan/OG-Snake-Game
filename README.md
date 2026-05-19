@@ -2,7 +2,7 @@
 
 ![Snake Game Screenshot](screenshot.jpg)
 
-Classic Snake Game built with Python's Turtle module — Day 20 of 100 Days of Code.
+Classic Snake Game built with Python's Turtle module.
 
 ## How to Run
 
